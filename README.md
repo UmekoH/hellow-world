@@ -1,2 +1,4 @@
 # hellow-world
-first repository
+I'm a junior progammmer of mobile app
+
+
